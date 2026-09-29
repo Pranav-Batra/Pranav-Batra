@@ -3,8 +3,8 @@
 I'm a developer at **UC Irvine** interested in **backend engineering, data engineering, and machine learning**. I like building things that are fast, reliable, and fun to use, from real-time multiplayer games to distributed systems built from scratch.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranav--batra--uci-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-batra-uci)
+[![Portfolio](https://img.shields.io/badge/Portfolio-More_About_Me-222222?style=flat&logo=githubpages&logoColor=white)](https://pranav-batra.github.io/personalPortfolio/)
 [![GitHub followers](https://img.shields.io/github/followers/Pranav-Batra?label=Follow&style=flat&logo=github)](https://github.com/Pranav-Batra)
-[**More About Me**](https://pranav-batra.github.io/personalPortfolio/)
 
 ---
 
