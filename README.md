@@ -4,6 +4,7 @@ I'm a developer at **UC Irvine** interested in **backend engineering, data engin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranav--batra--uci-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-batra-uci)
 [![GitHub followers](https://img.shields.io/github/followers/Pranav-Batra?label=Follow&style=flat&logo=github)](https://github.com/Pranav-Batra)
+[**More About Me**](https://pranav-batra.github.io/personalPortfolio/)
 
 ---
 
